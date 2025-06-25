@@ -12,7 +12,6 @@
 - 🌱 Currently learning: Generative AI, prompt engineering, vector databases, and agent orchestration
 - 🤝 Open to collaborating on: AI/ML tools, LLM apps, or anything at the intersection of analytics and automation
 - 💡 Looking for help with: Fine-tuning open-source LLMs and deploying AI apps
-- 📫 How to reach me: [gudheniya.kg@gmail.com](mailto:gudheniya.kg@gmail.com) • [LinkedIn](https://linkedin.com/in/kanhiya-gudheniya)
 - 🧾 Fun fact: I started in mechanical engineering, mastered analytics, and now I'm diving headfirst into AI!
 
 ---
