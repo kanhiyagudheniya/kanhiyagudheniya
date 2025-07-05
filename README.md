@@ -1,6 +1,6 @@
 ## 👋 Hello, I am Kanhiya Gudheniya — Welcome to my GitHub!
 
-🎯 I’m a Product Analyst with 7+ years of experience in data analytics and diagnostics, currently transitioning into the world of **Generative AI**, **AI agents**, and **LLM-powered applications**.
+🎯 I’m a Product Analyst with 7+ years of experience in data analytics and automotive, currently transitioning into the world of **Generative AI**, **AI agents**, and **LLM-powered applications**.
 
 🧠 I'm actively learning and building with tools like **LangChain**, **OpenAI**, and **Python** to solve real-world problems using cutting-edge AI.
 
